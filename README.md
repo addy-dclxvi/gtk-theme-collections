@@ -74,16 +74,16 @@ Added Noita, Vescita, Ocha, and Tee.
 Just like others, they are a messy edit of Arc GTK Theme with some removal of component to make them look minimal and less distracting.
 And GTK3 part only slightly modified because they are too hard for me to be understood.
 I edited the Arc GTK Theme without a proper knowledge, just using sporadic trials, errors, and reverts with Inkscape, GIMP, and Geany.
-Here is some random previews of them. I use **i3-gaps** and **Bspwm** when taking screenshoots. <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/evince-ocha.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/thunar-noita.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/pcmanfm-tee.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/geany-noita.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/evince2-ocha.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/gimp-vestica.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/firefox-ocha.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/audacoius-noita.jpg) <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/thunar-tee.jpg) <br />
+Here is some random previews of them. I use **i3-gaps** and **Bspwm** when taking screenshoots. <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/evince-ocha.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/thunar-noita.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/pcmanfm-tee.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/geany-noita.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/evince2-ocha.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/gimp-vestica.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/firefox-ocha.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/audacoius-noita.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/thunar-tee.jpg) <br /> <br />
 
 ## License
 
