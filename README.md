@@ -70,7 +70,7 @@ I recommend You to remove it using gtk-nocsd (╯°□°）╯︵ ┻━┻
 - Folder icons are included as a bonus.
 
 ## Update 30 August 2018
-Added Noita, Vescita, Ocha, and Tee. I use background color, foreground color, and accent color from *Witchy* and *Teatime* colorscheme by @atrnh. 
+Added Noita, Vescita, Ocha, and Tee. I use background color, foreground color, and accent color from *Witchy* and *Teatime* colorscheme by @atrnh . 
 Just like others, they are a messy edit of Arc GTK Theme with some removal of component to make them look minimal and less distracting.
 And GTK3 part only slightly modified because they are too hard for me to be understood.
 I edited the Arc GTK Theme without a proper knowledge, just using sporadic trials, errors, and reverts with Inkscape, GIMP, and Geany.
