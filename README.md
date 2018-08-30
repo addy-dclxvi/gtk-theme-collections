@@ -82,7 +82,7 @@ Here is some random previews of them. I use **i3-gaps** and **Bspwm** when takin
 ![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/evince2-ocha.jpg) <br /> <br />
 ![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/gimp-vestica.jpg) <br /> <br />
 ![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/firefox-ocha.jpg) <br /> <br />
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/audacoius-noita.jpg) <br /> <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/audacious-noita.jpg) <br /> <br />
 ![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/thunar-tee.jpg) <br /> <br />
 
 ## License
