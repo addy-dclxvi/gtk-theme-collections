@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Vestica
+Comment=Yet Another Theme Based on Arc
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Vestica
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

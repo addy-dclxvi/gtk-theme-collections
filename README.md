@@ -1,5 +1,5 @@
 ## Introduction
-Just a messy edit of Arc GTK theme, designed as a companion for my Xfwm, Openbox, and Fluxbox theme collections. 
+**Just a messy edit of Arc GTK theme**, designed as a companion for my Xfwm, Openbox, and Fluxbox theme collections. 
 So, You can't find Gnome Shell, Metacity, Emerald, Cinnamon, etc here. 
 Contains a dark variant called Fantome and a light variant called Lumiere.
 The GTK3 part mostly default, the gtk.css is too hard for me to be understood. 
@@ -68,6 +68,22 @@ I recommend You to remove it using gtk-nocsd (╯°□°）╯︵ ┻━┻
 - I designed this theme for myself. So I use "It works for me" philosophy. Don't complain if it doesn't work for You :p
 
 - Folder icons are included as a bonus.
+
+## Update 30 August 2018
+Added Noita, Vescita, Ocha, and Tee. 
+Just like others, they are a messy edit of Arc GTK Theme with some removal of component to make them look minimal and less distracting.
+And GTK3 part only slightly modified because they are too hard for me to be understood.
+I edited the Arc GTK Theme without a proper knowledge, just using sporadic trials, errors, and reverts with Inkscape, GIMP, and Geany.
+Here is some random previews of them. I use **i3-gaps** and **Bspwm** when taking screenshoots. <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/evince-ocha.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/thunar-noita.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/pcmanfm-tee.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/geany-noita.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/evince2-ocha.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/gimp-vestica.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/firefox-ocha.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/audacoius-noita.jpg) <br />
+![alt text](https://raw.githubusercontent.com/addy-dclxvi/gtk-theme-collections/master/thunar-tee.jpg) <br />
 
 ## License
 
